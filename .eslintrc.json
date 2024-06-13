@@ -15,8 +15,6 @@
         "no-trailing-spaces": "off",
         "linebreak-style": "off",
         "eol-last": "off",
-        "indent": "off",
-        "space-before-blocks":"off",
-        "max-len":"off"
+        "space-before-blocks":"off"
     }
 }
